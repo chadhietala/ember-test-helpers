@@ -2,7 +2,8 @@
   "name": "ember-test-helpers",
   "private": true,
   "description": "Helpers for testing Ember.js applications",
-  "main": "lib/ember-test-helpers.js",
+  "main": "index.js",
+  "version": "0.5.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/switchfly/ember-test-helpers.git"
@@ -18,8 +19,15 @@
     "Ryan Florence",
     "Adolfo Builes"
   ],
+  "keywords": [
+    "ember-addon",
+    "ember"
+  ],
   "license": "Apache Version 2.0 and MIT",
   "readmeFilename": "README.md",
+  "dependencies": {
+    "klassy": "0.1.0"
+  },
   "devDependencies": {
     "broccoli": "^0.13.0",
     "broccoli-es6modules": "^0.4.0",
