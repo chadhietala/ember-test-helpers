@@ -26,7 +26,7 @@
   "license": "Apache Version 2.0 and MIT",
   "readmeFilename": "README.md",
   "dependencies": {
-    "klassy": "^0.1.2"
+    "klassy": "chadhietala/klassy.js#jsnext"
   },
   "devDependencies": {
     "broccoli": "^0.13.0",
